@@ -1,0 +1,2 @@
+[level] warning [time] 2012-11-28 13:11:41 [fileinfo] /home/chemical/workspace/python/se/Ranker.py:116 [msg] how can scoredict has number 0 in it???
+[level] warning [time] 2012-11-28 13:16:46 [fileinfo] /home/chemical/workspace/python/se/Spider.py:33 [msg] config load error for spider deep parameter

@@ -1,0 +1,4 @@
+[level] warning [time] 2012-11-28 20:02:42 [fileinfo] /home/chemical/workspace/python/se/Spider.py:33 [msg] config load error for spider deep parameter
+[level] warning [time] 2012-11-28 20:03:42 [fileinfo] /home/chemical/workspace/python/se/Spider.py:33 [msg] config load error for spider deep parameter
+[level] warning [time] 2012-11-28 20:04:43 [fileinfo] /home/chemical/workspace/python/se/Spider.py:33 [msg] config load error for spider deep parameter
+[level] warning [time] 2012-11-28 20:17:44 [fileinfo] /home/chemical/workspace/python/se/Logger.py:180 [aa] bb [aa1] ({'ss': 'tt'}) [aa2] ([1, 2, 3, 4])
